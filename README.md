@@ -4,12 +4,13 @@ Use Flutter packages - https://pub.dev/packages/lazy_load_scrollview
 
 # Example
 
+```
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
 }
 
-"class _HomePageState extends State<HomePage> {
+class _HomePageState extends State<HomePage> {
   int page = 0;
 
   bool isLoading = true;
@@ -105,7 +106,7 @@ class HomePage extends StatefulWidget {
     isPageLoad = false;
     setState(() {});
   }
-}"
-
+}
+```
 
 
