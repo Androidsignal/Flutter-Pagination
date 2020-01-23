@@ -1,4 +1,4 @@
-# Google Maps
+# Flutter Pagination
 
 Use Flutter packages - https://pub.dev/packages/lazy_load_scrollview
 
